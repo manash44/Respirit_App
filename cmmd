@@ -1,0 +1,4 @@
+flutter clean
+flutter pub get
+.\scripts\fix_android_manifest.ps1
+flutter build apk --release
